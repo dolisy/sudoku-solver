@@ -1,5 +1,5 @@
 # sudoku-solver
-Returns all the possible solution of a sudoku, given a CSV file.
+Returns all the possible solutions of a sudoku, given a CSV file.
 
 The solver and the sudoku CSV files are in the repository 'methods'.
 
