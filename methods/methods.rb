@@ -15,7 +15,7 @@ def grid_columns_method
 end
 
 def grid_sudoku_method
-  puts "Sudoku file name:"
+  puts "Sudoku file name: (example: 'sudoku_3x3.csv')"
   grid_sudoku = gets.chomp
   return grid_sudoku
 end
